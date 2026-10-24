@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#0B62F2</color>
+    <color name="blue_soft">#E8F0FE</color>
+    <color name="ink">#17181C</color>
+    <color name="grey_text">#8B8D96</color>
+    <color name="surface">#F2F2F5</color>
+    <color name="line">#E3E4E9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="heart">#FF3B57</color>
+    <color name="star_yellow">#FFC107</color>
+    <color name="splash_bg">#12161D</color>
+    <color name="gold">#E4B632</color>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="intro_title">Welcome to Shopping App\na Gateway to the Latest Tech</string>
+    <string name="intro_body">Sign in to explore a wide range of cutting-edge digital products. Don\'t have an account yet? Register now and enjoy a seamless and secure shopping experience</string>
+    <string name="get_started">Let\'s Get Started</string>
+    <string name="have_account">Already have an account? Sign in</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="user_name">Jackie</string>
+    <string name="categories">Categories</string>
+    <string name="recommendation">Recommendation</string>
+    <string name="see_all">See all</string>
+    <string name="nav_explorer">Explorer</string>
+    <string name="nav_cart">Cart</string>
+    <string name="nav_wishlist">Wishlist</string>
+    <string name="nav_orders">My Order</string>
+    <string name="nav_profile">Profile</string>
+    <string name="check_out">Check Out!</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="select_model">Select Model</string>
+    <string name="my_cart">My Cart</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="delivery_fee">Fee Delivery</string>
+    <string name="total_tax">Total Tax</string>
+    <string name="total">Total</string>
+    <string name="search_hint">Search products</string>
+    <string name="empty_list">Nothing here yet</string>
+    <string name="empty_cart">Your cart is empty</string>
+</resources>

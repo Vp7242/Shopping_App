@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/thumbRoot"
+    android:layout_width="58dp"
+    android:layout_height="58dp"
+    android:layout_marginEnd="10dp"
+    android:background="@drawable/bg_thumb_normal">
+
+    <ImageView
+        android:id="@+id/thumbImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@null"
+        android:padding="8dp"
+        android:scaleType="fitCenter" />
+</FrameLayout>
